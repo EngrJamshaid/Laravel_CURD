@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Ali Khan",
+      "email": "ali.khan@example.com",
+      "age": 21,
+      "city": "Islamabad"
+    },
+    {
+      "id": 2,
+      "name": "Sara Ahmed",
+      "email": "sara.ahmed@example.com",
+      "age": 25,
+      "city": "Karachi"
+    },
+    {
+      "id": 3,
+      "name": "Usman Tariq",
+      "email": "usman.tariq@example.com",
+      "age": 28,
+      "city": "Lahore"
+    },
+    {
+      "id": 4,
+      "name": "Ayesha Noor",
+      "email": "ayesha.noor@example.com",
+      "age": 23,
+      "city": "Peshawar"
+    },
+    {
+      "id": 5,
+      "name": "Bilal Iqbal",
+      "email": "bilal.iqbal@example.com",
+      "age": 27,
+      "city": "Rawalpindi"
+    },
+    {
+      "id": 6,
+      "name": "Fatima Zafar",
+      "email": "fatima.zafar@example.com",
+      "age": 22,
+      "city": "Multan"
+    },
+    {
+      "id": 7,
+      "name": "Hamza Ali",
+      "email": "hamza.ali@example.com",
+      "age": 24,
+      "city": "Quetta"
+    },
+    {
+      "id": 8,
+      "name": "Zara Khan",
+      "email": "zara.khan@example.com",
+      "age": 26,
+      "city": "Faisalabad"
+    },
+    {
+      "id": 9,
+      "name": "Omer Farooq",
+      "email": "omer.farooq@example.com",
+      "age": 29,
+      "city": "Hyderabad"
+    },
+    {
+      "id": 10,
+      "name": "Hira Shah",
+      "email": "hira.shah@example.com",
+      "age": 30,
+      "city": "Sialkot"
+    }
+  ]
+  
